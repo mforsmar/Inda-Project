@@ -5,7 +5,7 @@
 public class Absinthe {
     double alcohol = 41;
 
-    public Absinthe(){
+    public Absinthe() {
         super();
     }
 }
