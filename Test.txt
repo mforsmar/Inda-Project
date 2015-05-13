@@ -1,0 +1,4 @@
+git add Main.java
+git commit -a -m "blabla"(alla)
+git push
+git pull (head (om det krockar))
