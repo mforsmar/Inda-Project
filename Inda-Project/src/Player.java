@@ -22,18 +22,18 @@ public class Player {
     public void time() { return t; }
 
     public void drink(){
-        time += 20;
+        t += 20;
     }
 
     public void puke(){
-        time += 30;
+        t += 30;
     }
 
     public void enterRoom(){
-        time += 10;
+        t += 10;
     }
 
     public void talk(){
-        time += 15;
+        t += 15;
     }
 }

@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abd88a4-74c7-4ba8-9fe4-498d5df61e0a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inda-Project/src/Bar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inda-Project/src/Club.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inda-Project/src/FancyClub.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Inda-Project/src/ShadyBar.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inda-Project/src/Absinthe.java" afterPath="$PROJECT_DIR$/Inda-Project/src/Absinthe.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inda-Project/src/Player.java" afterPath="$PROJECT_DIR$/Inda-Project/src/Player.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Inda-Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,17 +52,17 @@
       <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inda-Project/src/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77079797" vertical-offset="86" max-vertical-offset="675">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.9168081" vertical-offset="0" max-vertical-offset="675">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding>
                 <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -469,13 +463,13 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -585,17 +579,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inda-Project/src/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77079797" vertical-offset="86" max-vertical-offset="675">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.9168081" vertical-offset="0" max-vertical-offset="675">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
           </folding>
         </state>
       </provider>
