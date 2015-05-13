@@ -5,7 +5,7 @@
 public class Player {
     String name;
     int age;
-    double alcoholLVL;
+    double alcoholLVL = 0;
     int t = 0;
 
     public Player(String name, int age){
@@ -26,7 +26,12 @@ public class Player {
     }
 
     public void puke(){
-        t += 30;
+        alcoholLVL -= 10;
+        if(alcoholLVL <= 0) {
+            alcoholLVL = 0;
+        } else {
+            t += 30;
+        }
     }
 
     public void enterRoom(){
